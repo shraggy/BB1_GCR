@@ -10,7 +10,7 @@ a high-fidelity GKP modular readout. This repo asks whether that promise survive
 once the pulses have to be physically realizable and the hardware is noisy. The
 write-up is [`BB1GCR_note.tex`](BB1GCR_note.tex) / [`BB1GCR_note.pdf`](BB1GCR_note.pdf)
 ("Readout/Calibration of Erroneous GKP States"); everything else in this repo is the
-code and data behind it.
+code and data used towards this analysis.
 
 ## Environment
 
