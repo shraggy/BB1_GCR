@@ -1,0 +1,7 @@
+[96s] plateau mean|P-target|:  bare=0.0061  notebook(BB1(GCR))=0.0006  Fix1/4 split-K12=0.0062
+[112s] Fix2 amplitude-opt physical: best scale s=0.0 -> plateau err=0.0061
+[112s] Fix3 heralding of the notebook pulse:
+   ||M psi||^2 (norm amplification on relevant inputs): min=8.84 mean=8.84
+   lambda_max(M)=168.33 (truncation-limited);  success = ||M psi||^2/lambda_max^2: mean=3.12e-04
+
+[112s] done

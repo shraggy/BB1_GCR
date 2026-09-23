@@ -1,0 +1,21 @@
+[A setup 34s] sweeping composition ...
+[A done 111s]
+[B pi/2 111s] ...
+[B pi 204s] ...
+[B 2pi 281s] ...
+[B done 358s]
+
+================ SUMMARY ================
+PART 1 composition, mean |P-nearest(0/1)| (lower=better):
+           all vec*vecf: 0.102
+      notebook last=vec: 0.109
+               bare BB1: 0.147
+                all vec: 0.396
+
+PART 2 individual angles, median over |alpha|:
+    angle |    GCR P_e    BB1 P_e       win |    GCR 1-F    BB1 1-F       win
+     pi/2 | 4.59e-06 6.76e-05       GCR | 1.51e-04 6.08e-06       BB1
+       pi | 2.78e-04 3.39e-04       GCR | 2.16e-03 1.82e-05       BB1
+      2pi | 1.41e-02 1.32e-03       BB1 | 2.22e-02 6.83e-04       BB1
+
+saved check2_composition.png and check2_individual_angles.png

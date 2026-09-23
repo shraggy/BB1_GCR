@@ -1,0 +1,32 @@
+[setup 10s]
+[48s] done config set 0
+[48s] done config set 1
+[48s] done config set 2
+[48s] done config set 3
+
+================ LEAVE-ONE-OUT (metric: mean |P-nearest(0/1)|, lower=better) ================
+   bare BB1                      : 0.142
+   all vec*vecf (good)           : 0.096
+   all vec (bad)                 : 0.393
+   good, but G4(pi)=vec          : 0.236
+   good, but G3(2pi)=vec         : 0.465
+   good, but G2(pi)=vec          : 0.322
+   good, but G1(pi/2)=vec        : 0.104
+   bad, but G4(pi)=vec*vecf      : 0.427
+   bad, but G3(2pi)=vec*vecf     : 0.322
+   bad, but G2(pi)=vec*vecf      : 0.406
+   bad, but G1(pi/2)=vec*vecf    : 0.411
+
+From the GOOD chain (0.10ish), damage from making ONE stage unitary:
+   make G3(2pi)    unitary -> +0.368 worse
+   make G2(pi)     unitary -> +0.226 worse
+   make G4(pi)     unitary -> +0.140 worse
+   make G1(pi/2)   unitary -> +0.007 worse
+
+From the BAD chain (0.40ish), repair from making ONE stage non-unitary:
+   make G3(2pi)    non-unitary -> -0.072 better
+   make G2(pi)     non-unitary -> --0.012 better
+   make G1(pi/2)   non-unitary -> --0.017 better
+   make G4(pi)     non-unitary -> --0.033 better
+
+saved Paper_Figures/leave_one_out.png

@@ -1,0 +1,19 @@
+[A setup 12s] sweeping composition ...
+[A done 169s]
+[B angle $\pi/2$ 169s] ...
+[B angle $\pi$ 239s] ...
+[B angle $2\pi$ 309s] ...
+[B done 383s]
+
+================ SUMMARY ================
+CLAIM 1&2 (composition), mean |P-nearest(0/1)|  (lower=better readout):
+   bare BB1                 : 0.147
+   BB1(GCR) vec*vecf [nonU] : 0.102   <-- better than BB1
+   BB1(GCR) vec      [unit] : 0.396   <-- worse than BB1
+
+CLAIM 3 (individual angles), median success-infidelity over |alpha|:
+   theta=$\pi/2$:  GCR=1.51e-04   BB1=6.08e-06   -> BB1 better
+   theta= $\pi$:  GCR=2.16e-03   BB1=1.82e-05   -> BB1 better
+   theta=$2\pi$:  GCR=2.22e-02   BB1=6.83e-04   -> BB1 better
+
+saved Paper_Figures/check_composition.png and Paper_Figures/check_individual_angles.png

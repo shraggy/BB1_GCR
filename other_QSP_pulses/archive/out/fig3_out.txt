@@ -1,0 +1,9 @@
+[setup 15.7s] running sweep over 120 points, Ncav=140 ...
+
+=== Fig. 3 summary (theta=pi/2, Delta=0.34), done in 468.2s ===
+BB1(GCR) back-action 1-F_H : min=1.96e-03 median=4.50e-03 max=7.08e-03
+bare BB1 back-action 1-F_H : min=3.14e-03 median=2.60e-02 max=6.42e-02
+BB1(GCR) / BB1 median infidelity ratio = 0x worse
+P(+1) BB1(GCR): min=0.001 max=0.999  (clean square wave swings 0<->1)
+P(+1) bare BB1: min=0.006 max=0.994
+saved Paper_Figures/GCR_BB1.png

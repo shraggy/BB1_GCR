@@ -1,0 +1,21 @@
+[148s] all K=1
+[158s] all K=2
+[178s] all K=4
+[217s] all K=8
+[299s] all K=16
+[304s] 2pi K=1
+[311s] 2pi K=2
+[319s] 2pi K=4
+[333s] 2pi K=8
+[357s] 2pi K=16
+
+P(-1)@x=0:  bare=0.0061  ideal=4.13e-07
+  K  (a) split-all (b) split-2pi-only  first3(prev)
+  1         0.3072             0.3072        0.3072
+  2         0.1380             0.1572        0.1263
+  4         0.0417             0.3139        0.0199
+  8         0.0137             0.3137        0.0046
+ 16         0.0095             0.3141        0.0080
+saved Paper_Figures/split_all.png
+saved Paper_Figures/split_2pi.png
+[358s] done

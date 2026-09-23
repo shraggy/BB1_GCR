@@ -1,0 +1,27 @@
+references: bare op-err=0.0408   ideal op-err=0.0078
+
+Fix 1/4 (splitting, correct axis, target whole):
+   K=1   op-err=0.3766  >= bare
+   K=2   op-err=0.1940  >= bare
+   K=4   op-err=0.0917  >= bare
+   K=8   op-err=0.0436  >= bare
+   K=12  op-err=0.0370  < bare (BEATS)
+
+Fix 2 (amplitude-optimized physical, correct axis):
+   scanned unsplit
+   scanned K=2
+   best: K=2 s=0.0  op-err=0.0408  < bare (BEATS)
+
+Fix 3 (heralded non-unitary = ideal): op-err=0.0078  (BEATS bare)
+   heralding success prob over sweep: min=9.677 mean=9.677 max=9.678
+
+==== SUMMARY (op-err, lower=squarer; bare=0.041, ideal=0.008) ====
+   split K=1               : 0.3766  
+   split K=2               : 0.1940  
+   split K=4               : 0.0917  
+   split K=8               : 0.0436  
+   split K=12              : 0.0370  BEATS bare
+   Fix2 best (amp-opt)     : 0.0408  BEATS bare
+   Fix3 heralded (=ideal)  : 0.0078  BEATS bare
+
+[276s] done

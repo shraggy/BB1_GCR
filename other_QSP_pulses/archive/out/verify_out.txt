@@ -1,0 +1,35 @@
+=== qubit-operator algebra (stage G4) ===
+(C1) ||vecf^2 - I||            = 0.00e+00   (expect ~0)
+(C2) ||vec*vecf - 1j*sigma||   = 0.00e+00   (expect ~0)
+     vec*vecf anti-Hermitian?  ||A+A^dag|| = 0.00e+00  Hermitian? ||A-A^dag||=4.00e+00
+(C3) {sigma(phi1), vecf} anticommute? ||sig*vecf+vecf*sig|| = 0.00e+00
+     vec Hermitian? ||vec-vec^dag|| = 0.00e+00  (Hermitian -> unitary CD axis)
+
+=== unitarity of the pre-correction gate exp(-i c pOp (x) A) ===
+(C4) A=vec*vecf : ||U^dag U - I|| = 6.178e+03   <- NON-unitary
+     A=vec      : ||U^dag U - I|| = 1.375e-11   <- unitary
+
+=== reduced readout sweep: P(+1) response ===
+   m=<x>/sqrt(pi)   BB1     BB1(GCR)vec*vecf[nonU]   BB1(GCR)vec[unitary]
+    -2.00        0.994        1.000                  0.568
+    -1.73        0.896        0.970                  0.646
+    -1.47        0.429        0.398                  0.439
+    -1.20        0.052        0.006                  0.400
+    -0.93        0.010        0.000                  0.434
+    -0.67        0.184        0.094                  0.323
+    -0.40        0.705        0.782                  0.653
+    -0.13        0.977        0.999                  0.572
+    +0.13        0.977        0.999                  0.572
+    +0.40        0.705        0.782                  0.653
+    +0.67        0.184        0.094                  0.323
+    +0.93        0.010        0.000                  0.434
+    +1.20        0.052        0.006                  0.400
+    +1.47        0.429        0.398                  0.439
+    +1.73        0.896        0.970                  0.646
+    +2.00        0.994        1.000                  0.568
+
+mean |P - nearest(0/1)|  (smaller = cleaner square-wave readout):
+   bare BB1                 : 0.142
+   BB1(GCR) vec*vecf [nonU] : 0.096
+   BB1(GCR) vec      [unit] : 0.393
+saved Paper_Data/unitarity_sweep.npz

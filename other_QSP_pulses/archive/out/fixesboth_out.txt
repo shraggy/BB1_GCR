@@ -1,0 +1,10 @@
+[179s] bare
+[183s] ideal
+[188s] green nofix
+[192s] gray nofix
+[234s] green fix
+[275s] gray fix
+
+P(-1) at x=0: {'bare': 0.00614, 'ideal': 0.0, 'green_nofix': 0.30723, 'gray_nofix': 0.43258, 'green_fix': 0.00643, 'gray_fix': 0.02889}
+P(+1) at x=1: {'bare': 0.00614, 'ideal': 0.0, 'green_nofix': 0.30723, 'gray_nofix': 0.43258, 'green_fix': 0.00476, 'gray_fix': 0.02372}
+[275s] saved Paper_Figures/fixes_both.png

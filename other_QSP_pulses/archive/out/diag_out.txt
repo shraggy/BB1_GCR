@@ -1,0 +1,28 @@
+========================================================================
+(1) INDIVIDUAL 2pi-pulse (the G3 stage): GCR vs bare, on a clean input
+========================================================================
+  m=0.0: 1-F_osc  GCR=-2.27e-05   bare=3.04e-01   (GCR better by 304498341736.3x)
+  m=1.0: 1-F_osc  GCR=-4.59e-05   bare=3.04e-01   (GCR better by 304481234184.8x)
+  m=2.0: 1-F_osc  GCR=-4.00e-05   bare=3.04e-01   (GCR better by 304476587211.6x)
+
+========================================================================
+(2) STAGE-BY-STAGE oscillator back-action infidelity inside BB1(GCR)
+========================================================================
+  m=0.3:  after G4=-4.44e-05 -> G3=-4.44e-05 -> G2=-4.45e-05 -> G1=6.58e-03
+  m=1.0:  after G4=-4.59e-05 -> G3=-4.59e-05 -> G2=-4.59e-05 -> G1=1.95e-03
+
+========================================================================
+(3) REFRESH test: restore clean input between stages vs true sequential
+========================================================================
+   no-refresh  = true BB1(GCR);  refresh-osc = reset oscillator to clean
+   Gaussian between stages;  refresh-both = also reset qubit to ideal.
+
+  m=0.3:
+     back-action 1-F_osc :  no-refresh=6.58e-03   refresh-osc=-4.95e-05   refresh-both=-4.44e-05
+     P(+1) on qubit      :  no-refresh=0.013   refresh-osc=0.013   refresh-both=0.052
+  m=1.0:
+     back-action 1-F_osc :  no-refresh=1.95e-03   refresh-osc=-4.94e-05   refresh-both=-4.59e-05
+     P(+1) on qubit      :  no-refresh=0.500   refresh-osc=0.500   refresh-both=0.500
+
+(If refresh dramatically lowers infidelity, the inter-stage corruption
+ IS the mechanism -> user's hypothesis confirmed.)

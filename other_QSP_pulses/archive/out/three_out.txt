@@ -1,0 +1,37 @@
+[setup 36s] built 9 (composite,mode) operators
+
+||U^dag U - I|| (full composite):
+   BB1         bare    : 1.22e-10
+   BB1         vec     : 7.11e-11
+   BB1         vecvecf : 2.00e+07
+   SCROFULOUS  bare    : 1.72e-11
+   SCROFULOUS  vec     : 7.73e+02
+   SCROFULOUS  vecvecf : 7.50e+04
+   TYCKO       bare    : 1.27e-11
+   TYCKO       vec     : 2.22e-11
+   TYCKO       vecvecf : 1.62e+04
+[86s] swept BB1
+[86s] swept SCROFULOUS
+[86s] swept TYCKO
+
+=== operating-point readout error (defined by each composite's vec*vecf plateaus) ===
+
+BB1  (29 operating pts):
+    bare (no GCR)         : 0.0582
+    vec (physical GCR)    : 0.3965
+    vec*vecf (ideal GCR)  : 0.0171
+    --> vec*vecf beats bare? True  (validation: pulses doing the right thing)
+
+SCROFULOUS  (12 operating pts):
+    bare (no GCR)         : 0.0432
+    vec (physical GCR)    : 0.1965
+    vec*vecf (ideal GCR)  : 0.0169
+    --> vec*vecf beats bare? True  (validation: pulses doing the right thing)
+
+TYCKO  (13 operating pts):
+    bare (no GCR)         : 0.0571
+    vec (physical GCR)    : 0.4789
+    vec*vecf (ideal GCR)  : 0.0151
+    --> vec*vecf beats bare? True  (validation: pulses doing the right thing)
+
+saved Paper_Figures/three_composites.png

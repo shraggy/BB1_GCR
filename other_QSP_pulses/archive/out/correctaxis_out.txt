@@ -1,0 +1,23 @@
+=== n_hat (qubit Bloch axis at start of pulse) and sigma_gamma = n x phi ===
+  BB1:
+    theta=1.00pi phi=0.54pi | n_hat=(+0.00,+0.00,+1.00) | gamma=n x phi=(-0.99,-0.12,+0.00) |gamma|=1.00
+    theta=2.00pi phi=1.62pi | n_hat=(+0.00,+0.00,-1.00) | gamma=n x phi=(-0.93,-0.37,-0.00) |gamma|=1.00
+    theta=1.00pi phi=0.54pi | n_hat=(-0.00,-0.00,-1.00) | gamma=n x phi=(+0.99,+0.12,-0.00) |gamma|=1.00
+    theta=0.50pi phi=0.00pi | n_hat=(+0.00,-0.00,+1.00) | gamma=n x phi=(-0.00,+1.00,+0.00) |gamma|=1.00
+  SCROFULOUS:
+    theta=0.64pi phi=0.34pi | n_hat=(+0.00,+0.00,+1.00) | gamma=n x phi=(-0.88,+0.47,+0.00) |gamma|=1.00
+    theta=1.00pi phi=1.56pi | n_hat=(+0.80,-0.42,-0.43) | gamma=n x phi=(-0.42,-0.08,-0.71) |gamma|=0.83
+    theta=0.64pi phi=0.34pi | n_hat=(-0.59,-0.68,+0.43) | gamma=n x phi=(-0.38,+0.20,-0.20) |gamma|=0.47
+    theta=0.50pi phi=0.00pi | n_hat=(+0.00,-1.00,+0.00) | gamma=n x phi=(-0.00,+0.00,+1.00) |gamma|=1.00
+
+[34s] scheme                     op-err   ||U^dU-I||   unit?
+  BB1        bare                 0.0408   6.30e-11   UNITARY
+  BB1        phys (n x phi)       0.3766   4.63e-11   UNITARY
+  BB1        phys (phi x n)       0.3971   4.63e-11   UNITARY
+  BB1        ideal (non-unitary)  0.0078   2.13e+06   NON-UNITARY
+  SCROFULOUS bare                 0.1291   7.61e-11   UNITARY
+  SCROFULOUS phys (n x phi)       0.2469   1.12e-10   UNITARY
+  SCROFULOUS phys (phi x n)       0.3348   1.12e-10   UNITARY
+  SCROFULOUS ideal (non-unitary)  0.0371   1.31e+05   NON-UNITARY
+
+[76s] saved Paper_Figures/correct_axis.png

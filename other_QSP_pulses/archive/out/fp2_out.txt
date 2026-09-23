@@ -1,0 +1,15 @@
+/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/run_final_plot2.py:90: UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  fig.tight_layout()
+[114s] split K=4 done
+[142s] split K=8 done
+[183s] split K=12 done
+
+P(-1) at x=0:
+    ideal: 1.000e-06
+     bare: 6.145e-03
+      K12: 6.431e-03
+       K8: 4.579e-03
+       K4: 1.991e-02
+     phys: 3.072e-01
+
+[183s] saved Supp_Figures/BB1_GCR_fixes.pdf and Paper_Figures/final_plot2.png

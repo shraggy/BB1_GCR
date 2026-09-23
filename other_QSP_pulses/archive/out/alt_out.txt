@@ -1,0 +1,24 @@
+[setup 31s] built 9 configs
+[68s] single (bare)
+[68s] BB1 (bare)
+[68s] BB1 (GCR phys)
+[68s] hybrid: BB1 GCR, 2pi bare
+[68s] BB1 2pi->2xpi (GCR phys)
+[68s] SCROFULOUS (bare)
+[68s] SCROFULOUS (GCR phys)
+[68s] TYCKO90off (bare)
+[68s] TYCKO90off (GCR phys)
+
+=========== readout quality: mean |P-nearest(0/1)| (lower=better) ===========
+   BB1 (bare)                  : 0.142
+   single (bare)               : 0.203
+   TYCKO90off (bare)           : 0.203
+   SCROFULOUS (bare)           : 0.257
+   BB1 2pi->2xpi (GCR phys)    : 0.284
+   hybrid: BB1 GCR, 2pi bare   : 0.297
+   SCROFULOUS (GCR phys)       : 0.370
+   TYCKO90off (GCR phys)       : 0.371
+   BB1 (GCR phys)              : 0.393
+   (reference: BB1(GCR) vec*vecf non-physical ideal = 0.096 from earlier)
+
+saved Paper_Figures/alternatives.png

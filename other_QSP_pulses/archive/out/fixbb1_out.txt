@@ -1,0 +1,19 @@
+=== requirement 2 check: qubit perpendicular to pulse axis? ===
+  BB1: <sigma_phi> before each pulse (0 = qubit perpendicular to pulse axis -> unitary correction exists)
+     pulse 0 (theta=1.00pi, phi=0.54pi): <sigma_phi>=+0.000
+     pulse 1 (theta=2.00pi, phi=1.62pi): <sigma_phi>=+0.000
+     pulse 2 (theta=1.00pi, phi=0.54pi): <sigma_phi>=+0.000
+     pulse 3 (theta=0.50pi, phi=0.00pi): <sigma_phi>=+0.000
+  SCROFULOUS (3-pulse): <sigma_phi> before each pulse (0 = qubit perpendicular to pulse axis -> unitary correction exists)
+     pulse 0 (theta=0.64pi, phi=0.34pi): <sigma_phi>=+0.000
+     pulse 1 (theta=1.00pi, phi=1.56pi): <sigma_phi>=+0.565
+     pulse 2 (theta=0.64pi, phi=0.34pi): <sigma_phi>=-0.882
+[134s] scheme            op-err   ||U^dag U - I||  (unitary?)
+  bare                       0.0408   6.30e-11   UNITARY
+  ideal vecvecf              0.0078   2.13e+06   NON-UNITARY
+  all-split (K=8)            0.0377   2.04e-09   UNITARY
+  corr-split, target whole   0.0474   1.74e-09   UNITARY
+  target-split only          0.3880   4.83e-10   UNITARY
+  2pi-split only             0.2260   7.58e-10   UNITARY
+
+[135s] saved Paper_Figures/fix_bb1.png

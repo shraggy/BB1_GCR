@@ -1,0 +1,17 @@
+# Local Python environment
+qutip-env/
+
+# Python
+__pycache__/
+*.pyc
+
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# OS
+.DS_Store

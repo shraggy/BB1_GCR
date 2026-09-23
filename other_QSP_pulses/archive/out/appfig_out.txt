@@ -1,0 +1,76 @@
+[4s] s=0.0: err=6.14e-03 succ_global=1.00e+00 succ_sub=1.00e+00
+[8s] s=0.25: err=2.52e-03 succ_global=4.52e-01 succ_sub=6.17e-01
+[13s] s=0.5: err=7.07e-04 succ_global=1.31e-01 succ_sub=3.57e-01
+[17s] s=0.75: err=6.61e-05 succ_global=7.94e-03 succ_sub=1.80e-01
+[22s] s=1.0: err=4.13e-07 succ_global=1.71e-04 succ_sub=7.10e-02
+Traceback (most recent call last):
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/run_appendix_fig.py", line 67, in <module>
+    fig.savefig("Supp_Figures/BB1_GCR_fixes.pdf",bbox_inches="tight")
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/figure.py", line 3395, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/backend_bases.py", line 2175, in print_figure
+    self.figure.draw(renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/artist.py", line 95, in draw_wrapper
+    result = draw(artist, renderer, *args, **kwargs)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/artist.py", line 72, in draw_wrapper
+    return draw(artist, renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/figure.py", line 3162, in draw
+    mimage._draw_list_compositing_images(
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/image.py", line 132, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/artist.py", line 72, in draw_wrapper
+    return draw(artist, renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/axes/_base.py", line 3137, in draw
+    mimage._draw_list_compositing_images(
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/image.py", line 132, in _draw_list_compositing_images
+    a.draw(renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/artist.py", line 72, in draw_wrapper
+    return draw(artist, renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/legend.py", line 766, in draw
+    bbox = self._legend_box.get_window_extent(renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 367, in get_window_extent
+    bbox = self.get_bbox(renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 360, in get_bbox
+    bbox, offsets = self._get_bbox_and_child_offsets(renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 452, in _get_bbox_and_child_offsets
+    bboxes = [c.get_bbox(renderer) for c in self.get_visible_children()]
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 452, in <listcomp>
+    bboxes = [c.get_bbox(renderer) for c in self.get_visible_children()]
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 360, in get_bbox
+    bbox, offsets = self._get_bbox_and_child_offsets(renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 479, in _get_bbox_and_child_offsets
+    bboxes = [c.get_bbox(renderer) for c in self.get_visible_children()]
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 479, in <listcomp>
+    bboxes = [c.get_bbox(renderer) for c in self.get_visible_children()]
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 360, in get_bbox
+    bbox, offsets = self._get_bbox_and_child_offsets(renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 452, in _get_bbox_and_child_offsets
+    bboxes = [c.get_bbox(renderer) for c in self.get_visible_children()]
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 452, in <listcomp>
+    bboxes = [c.get_bbox(renderer) for c in self.get_visible_children()]
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 360, in get_bbox
+    bbox, offsets = self._get_bbox_and_child_offsets(renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 479, in _get_bbox_and_child_offsets
+    bboxes = [c.get_bbox(renderer) for c in self.get_visible_children()]
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 479, in <listcomp>
+    bboxes = [c.get_bbox(renderer) for c in self.get_visible_children()]
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/offsetbox.py", line 767, in get_bbox
+    bbox, info, yd = self._text._get_layout(renderer)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/text.py", line 381, in _get_layout
+    w, h, d = _get_text_metrics_with_cache(
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/text.py", line 69, in _get_text_metrics_with_cache
+    return _get_text_metrics_with_cache_impl(
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/text.py", line 77, in _get_text_metrics_with_cache_impl
+    return renderer_ref().get_text_width_height_descent(text, fontprop, ismath)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/backends/_backend_pdf_ps.py", line 114, in get_text_width_height_descent
+    parse = self._text2path.mathtext_parser.parse(s, 72, prop)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/mathtext.py", line 79, in parse
+    return self._parse_cached(s, dpi, prop, antialiased)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/mathtext.py", line 100, in _parse_cached
+    box = self._parser.parse(s, fontset, fontsize, dpi)
+  File "/Users/shraddhasingh/Library/CloudStorage/OneDrive-IBM/Documents/GitHub/BB1_GCR/qutip-env/lib/python3.9/site-packages/matplotlib/_mathtext.py", line 2173, in parse
+    raise ValueError("\n" + ParseException.explain(err, 0)) from None
+ValueError: 
+n{\le}40
+  ^
+ParseFatalException: Unknown symbol: \le, found '\'  (at char 2), (line:1, col:3)

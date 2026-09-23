@@ -1,0 +1,15 @@
+m=<x-axis>=alph/sqrt(pi);  P(+1) near integer m (the integer-sqrt(pi) points):
+      m  notebook    ideal     phys     bare
+  -2.00     0.999    1.000    0.693    0.994
+  -1.50     0.500    0.500    0.500    0.500
+  -1.00     0.001    0.000    0.307    0.006
+  -0.50     0.500    0.500    0.500    0.500
+   0.00     0.999    1.000    0.693    0.994
+   0.50     0.500    0.500    0.500    0.500
+   1.00     0.001    0.000    0.307    0.006
+   1.50     0.500    0.500    0.500    0.500
+   2.00     0.999    1.000    0.693    0.994
+
+max|notebook-ideal|=0.015  max|notebook-phys|=0.406
+
+[520s] saved Paper_Figures/investigate.png

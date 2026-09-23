@@ -1,0 +1,9 @@
+[51s] bare=0.0582 ideal=0.0171
+[92s] Fix1/4 split K=12: op-err=0.0557
+[452s] Fix2 opt amps=[-0.391  0.178  0.413  1.572] op-err=0.0905
+[457s] Fix3 heralding: ||M||_op(lambda_max)=238.095
+   success prob = ||M psi||^2 / lambda_max^2 : min=1.707e-04 mean=1.707e-04 max=1.707e-04
+
+[457s] saved Paper_Figures/fixes_squarewave.png
+
+SUMMARY op-err (bare=0.058): split-K12=0.056  Fix2=0.090  ideal/Fix3=0.017

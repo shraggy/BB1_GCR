@@ -1,0 +1,2 @@
+op-err: ideal=0.017 split=0.056 bare=0.058 nofix=0.387 fix2=0.090
+saved Supp_Figures/BB1_GCR_fixes.pdf and Paper_Figures/fixes_squarewave.png

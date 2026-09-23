@@ -1,0 +1,16 @@
+=== vec*vecf vs 1j*sigma(phi) along BB1's ACTUAL n_hat trajectory ===
+  theta=1.00pi n=(+0,+0,+1): ||vec*vecf - 1j sigma(phi)|| = 0.00e+00
+  theta=2.00pi n=(+0,+0,-1): ||vec*vecf - 1j sigma(phi)|| = 0.00e+00
+  theta=1.00pi n=(-0,-0,-1): ||vec*vecf - 1j sigma(phi)|| = 0.00e+00
+  theta=0.50pi n=(+0,-0,+1): ||vec*vecf - 1j sigma(phi)|| = 0.00e+00
+
+=== BB1 readout error (correct-axis framework), N=81 ===
+mode       op-err(plateau)   worst@bin-center
+bare                0.0508             0.1401
+correct             0.3842             0.4469
+ideal               0.0128             0.0558
+
+ideal P(+1): max over sweep=1.0000  min=0.0000
+bare  P(+1): max=0.9939  min=0.0061
+
+[110s] done

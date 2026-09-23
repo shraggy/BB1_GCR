@@ -1,0 +1,23 @@
+[1s] PART A single-pulse angle sweep
+  theta/pi : 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.50 3.00 4.00
+  bare    : 5.6e-03 2.2e-02 4.7e-02 7.9e-02 1.1e-01 1.5e-01 1.8e-01 2.1e-01 2.6e-01 2.8e-01 2.9e-01
+  vec     : 4.8e-06 2.8e-04 2.9e-03 1.4e-02 4.2e-02 9.6e-02 1.7e-01 2.6e-01 3.3e-01 2.9e-01 2.9e-01
+  vecvecf : 7.5e-14 -7.5e-09 -2.0e-09 7.2e-12 2.9e-11 1.1e-10 -3.3e-10 1.5e-09 1.1e-08 1.6e-07 8.2e-06
+
+[74s] PART B1 pulse-splitting (physical vec), op-err vs K:
+    reference: bare=0.0408  ideal vec*vecf=0.0078
+    K=1  (4 sub-pulses): physical-GCR op-err=0.4086
+    K=2  (8 sub-pulses): physical-GCR op-err=0.1489
+    K=4  (16 sub-pulses): physical-GCR op-err=0.0538
+    K=8  (32 sub-pulses): physical-GCR op-err=0.0377
+
+[142s] PART B2 precorrection amplitude scale s (K=1 physical vec):
+    s=0.0 : op-err=0.0408  (s=0 -> bare)
+    s=0.25: op-err=0.0516
+    s=0.5 : op-err=0.1578
+    s=0.75: op-err=0.2978
+    s=1.0 : op-err=0.4086  (s=1 -> standard physical GCR)
+    s=1.5 : op-err=0.4796
+    s=2.0 : op-err=0.4102
+
+[173s] saved Paper_Figures/rootcause.png

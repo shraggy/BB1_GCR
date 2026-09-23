@@ -1,0 +1,17 @@
+[143s] K=1 done
+[151s] K=2 done
+[165s] K=4 done
+[193s] K=8 done
+[234s] K=12 done
+[288s] K=16 done
+
+ K :  P(-1)@x=0   P(+1)@x=rt(pi)   (sub-angle of 2pi pulse)
+ bare: 0.0061     0.0061
+ideal: 4.13e-07   4.13e-07
+ K=1 : 0.3072     0.3072       2pi/1=360 deg
+ K=2 : 0.1263     0.0928       2pi/2=180 deg
+ K=4 : 0.0199     0.0271       2pi/4=90 deg
+ K=8 : 0.0046     0.0086       2pi/8=45 deg
+ K=12: 0.0064     0.0048       2pi/12=30 deg
+ K=16: 0.0080     0.0033       2pi/16=22 deg
+[289s] saved Paper_Figures/Kconv.png

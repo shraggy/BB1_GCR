@@ -1,0 +1,22 @@
+  axes for mode=bare:
+  axes for mode=old:
+    theta=1.00pi: old axis ~ 1j*sigma(phi)*vecf
+    theta=2.00pi: old axis ~ 1j*sigma(phi)*vecf
+    theta=1.00pi: old axis ~ 1j*sigma(phi)*vecf
+    theta=0.50pi: old axis ~ 1j*sigma(phi)*vecf
+  axes for mode=correct:
+    theta=1.00pi phi=0.54pi: n=(+0,+0,+1) gamma=n x phi=(-0.99,-0.12,+0.00)
+    theta=2.00pi phi=1.62pi: n=(+0,+0,-1) gamma=n x phi=(-0.93,-0.37,-0.00)
+    theta=1.00pi phi=0.54pi: n=(-0,-0,-1) gamma=n x phi=(+0.99,+0.12,-0.00)
+    theta=0.50pi phi=0.00pi: n=(+0,-0,+1) gamma=n x phi=(-0.00,+1.00,+0.00)
+  axes for mode=ideal:
+
+mode      op-err   ||U^dU-I||
+  bare     0.0582   1.2e-10
+  old      0.3965   7.1e-11
+  correct  0.3873   6.2e-11
+  ideal    0.0171   2.0e+07
+
+max |P_old - P_correct| over sweep = 0.125
+
+[62s] saved Paper_Figures/bb1_axiscompare.png

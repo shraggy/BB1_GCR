@@ -1,0 +1,14 @@
+[63s] built ops
+[534s] swept
+
+P(+1) at integer m (plateaus; ideal target 1,0,1,0,1):
+     m    bare  BB1(GCR)  split-fix  phys-nofix
+    -2   0.994     0.999      0.993       0.693
+    -1   0.006     0.001      0.006       0.307
+     0   0.994     0.999      0.994       0.693
+     1   0.006     0.001      0.005       0.307
+     2   0.994     0.999      0.994       0.693
+
+mean |P-target| at plateaus:  bare=0.0061  split-fix=0.0062  BB1(GCR)=0.0006
+
+[534s] saved Paper_Figures/final_plot.png and Supp_Figures/BB1_GCR_fixes.pdf

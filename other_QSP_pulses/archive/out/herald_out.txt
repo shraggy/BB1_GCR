@@ -1,0 +1,6 @@
+[4s] s=0.0: readout P(-1)@0=6.14e-03  lambda_max=1.00  success=1.00e+00
+[9s] s=0.25: readout P(-1)@0=2.52e-03  lambda_max=1.97  success=4.52e-01
+[14s] s=0.5: readout P(-1)@0=7.07e-04  lambda_max=4.86  success=1.31e-01
+[19s] s=0.75: readout P(-1)@0=6.61e-05  lambda_max=26.27  success=7.94e-03
+[24s] s=1.0: readout P(-1)@0=4.13e-07  lambda_max=238.09  success=1.71e-04
+[24s] saved Paper_Figures/herald_tradeoff.png
