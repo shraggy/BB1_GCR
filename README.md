@@ -24,8 +24,6 @@ python3.9 -m venv qutip-env
 ./qutip-env/bin/pip install qutip==4.7.6 qutip-qip numpy scipy matplotlib jupyter
 ```
 
-`qutip-env/` is git-ignored — it's a local build artifact, not part of the repo.
-
 ## How to run
 
 All scripts use relative paths (`Paper_Data/...`, `Paper_Figures/...`) and must be
