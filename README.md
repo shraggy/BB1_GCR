@@ -62,9 +62,9 @@ be corrected if any script sits in the wrong folder.
 | Result | Number | Note section | Code |
 |---|---|---|---|
 | GCR is the best any deterministic unitary achieves at the no-error point | — | §"Why the physical pulse fails" | `scripts/ideal_and_no_unitary_fix/` |
-| Heralded (flagged) BB1(GCR) readout, post-selected on ~17% pass rate | infidelity $5.7\times10^{-4}$ | §"The flagged readout" | `scripts/flagged_readout/` |
-| Variationally compiled BB1(GCR), deterministic, no post-selection | infidelity $1.5\times10^{-3}$ (~5× below bare BB1, before noise) | §"Deterministic readout by variational compilation" | `scripts/variational_compilation/` |
-| Once realistic noise (gate duration, decoherence) is included, a single bare GCR beats both heralded and variationally-compiled BB1(GCR) | $\sim\!8\times$ | §"Readout under realistic noise: master-equation simulation" | `scripts/mesolve_noise/` |
+| Heralded (flagged) BB1(GCR) readout, post-selected on ~17% pass rate | infidelity 5.7×10⁻⁴ | §"The flagged readout" | `scripts/flagged_readout/` |
+| Variationally compiled BB1(GCR), deterministic, no post-selection | infidelity 1.5×10⁻³ (~5× below bare BB1, before noise) | §"Deterministic readout by variational compilation" | `scripts/variational_compilation/` |
+| Once realistic noise (gate duration, decoherence) is included, a single bare GCR beats both heralded and variationally-compiled BB1(GCR) | ~8× | §"Readout under realistic noise: master-equation simulation" | `scripts/mesolve_noise/` |
 | Stress test: reading a codeword that idled under decay/dephasing before readout | ranking unchanged | §"Reading a pre-damaged codeword" | `scripts/damage_readout/` |
 | Stress test: reading a codeword actively stabilized by noisy SBS rounds | ranking unchanged | §"Reading an actively stabilized codeword" | `scripts/sbs_readout/` |
 
