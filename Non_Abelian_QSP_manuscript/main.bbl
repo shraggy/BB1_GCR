@@ -1,0 +1,362 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{wimperis1994broadband}
+S.~Wimperis, \href{https://www.sciencedirect.com/science/article/pii/S1064185884711594}{Broadband, {Narrowband}, and {Passband} {Composite} {Pulses} for {Use} in {Advanced} {NMR} {Experiments}}, Journal of Magnetic Resonance, Series A 109~(2) (1994) 221--231.
+\newblock \href {https://doi.org/10.1006/jmra.1994.1159} {\path{doi:10.1006/jmra.1994.1159}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1064185884711594}
+
+\bibitem{low2017optimal}
+G.~H. Low, I.~L. Chuang, \href{https://link.aps.org/doi/10.1103/PhysRevLett.118.010501}{Optimal {Hamiltonian} {Simulation} by {Quantum} {Signal} {Processing}}, Physical Review Letters 118~(1) (2017) 010501, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevLett.118.010501} {\path{doi:10.1103/PhysRevLett.118.010501}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.118.010501}
+
+\bibitem{martyn2021grand}
+J.~M. Martyn, Z.~M. Rossi, A.~K. Tan, I.~L. Chuang, \href{https://link.aps.org/doi/10.1103/PRXQuantum.2.040203}{Grand {Unification} of {Quantum} {Algorithms}}, PRX Quantum 2~(4) (2021) 040203, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PRXQuantum.2.040203} {\path{doi:10.1103/PRXQuantum.2.040203}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PRXQuantum.2.040203}
+
+\bibitem{motlagh2023generalized}
+D.~Motlagh, N.~Wiebe, \href{https://link.aps.org/doi/10.1103/PRXQuantum.5.020368}{Generalized {Quantum} {Signal} {Processing}}, PRX Quantum 5~(2) (2024) 020368, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PRXQuantum.5.020368} {\path{doi:10.1103/PRXQuantum.5.020368}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PRXQuantum.5.020368}
+
+\bibitem{rossi2022multivariable}
+Z.~M. Rossi, I.~L. Chuang, \href{https://quantum-journal.org/papers/q-2022-09-20-811/}{Multivariable quantum signal processing ({M}-{QSP}): prophecies of the two-headed oracle}, Quantum 6 (2022) 811, publisher: Verein zur Förderung des Open Access Publizierens in den Quantenwissenschaften.
+\newblock \href {https://doi.org/10.22331/q-2022-09-20-811} {\path{doi:10.22331/q-2022-09-20-811}}.
+\newline\urlprefix\url{https://quantum-journal.org/papers/q-2022-09-20-811/}
+
+\bibitem{braunstein2005quantum}
+S.~L. Braunstein, P.~van Loock, \href{https://link.aps.org/doi/10.1103/RevModPhys.77.513}{Quantum information with continuous variables}, Reviews of Modern Physics 77~(2) (2005) 513--577, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/RevModPhys.77.513} {\path{doi:10.1103/RevModPhys.77.513}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/RevModPhys.77.513}
+
+\bibitem{liu2016power}
+N.~Liu, J.~Thompson, C.~Weedbrook, S.~Lloyd, V.~Vedral, M.~Gu, K.~Modi, \href{https://link.aps.org/doi/10.1103/PhysRevA.93.052304}{Power of one qumode for quantum computation}, Physical Review A 93~(5) (2016) 052304, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevA.93.052304} {\path{doi:10.1103/PhysRevA.93.052304}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.93.052304}
+
+\bibitem{ISA}
+Y.~Liu, S.~Singh, K.~C. Smith, E.~Crane, J.~M. Martyn, A.~Eickbusch, A.~Schuckert, R.~D. Li, J.~Sinanan-Singh, M.~B. Soley, T.~Tsunoda, I.~L. Chuang, N.~Wiebe, S.~M. Girvin, \href{http://arxiv.org/abs/2407.10381}{Hybrid {Oscillator}-{Qubit} {Quantum} {Processors}: {Instruction} {Set} {Architectures}, {Abstract} {Machine} {Models}, and {Applications}}, arXiv:2407.10381 [quant-ph] (Aug. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2407.10381} {\path{doi:10.48550/arXiv.2407.10381}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2407.10381}
+
+\bibitem{brenner2024factoring}
+L.~Brenner, L.~Caha, X.~Coiteux-Roy, R.~Koenig, \href{http://arxiv.org/abs/2412.13164}{Factoring an integer with three oscillators and a qubit}, arXiv:2412.13164 [quant-ph] (Dec. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2412.13164} {\path{doi:10.48550/arXiv.2412.13164}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2412.13164}
+
+\bibitem{eickbusch2022fast}
+A.~Eickbusch, V.~Sivak, A.~Z. Ding, S.~S. Elder, S.~R. Jha, J.~Venkatraman, B.~Royer, S.~M. Girvin, R.~J. Schoelkopf, M.~H. Devoret, \href{https://www.nature.com/articles/s41567-022-01776-9}{Fast universal control of an oscillator with weak dispersive coupling to a qubit}, Nature Physics 18~(12) (2022) 1464--1469, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41567-022-01776-9} {\path{doi:10.1038/s41567-022-01776-9}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41567-022-01776-9}
+
+\bibitem{haroche2013nobel}
+S.~Haroche, \href{https://link.aps.org/doi/10.1103/RevModPhys.85.1083}{Nobel {Lecture}: {Controlling} photons in a box and exploring the quantum to classical boundary}, Reviews of Modern Physics 85~(3) (2013) 1083--1102, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/RevModPhys.85.1083} {\path{doi:10.1103/RevModPhys.85.1083}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/RevModPhys.85.1083}
+
+\bibitem{kumar2023quantum}
+A.~Kumar, A.~Suleymanzade, M.~Stone, L.~Taneja, A.~Anferov, D.~I. Schuster, J.~Simon, \href{https://www.nature.com/articles/s41586-023-05740-2}{Quantum-enabled millimetre wave to optical transduction using neutral atoms}, Nature 615~(7953) (2023) 614--619, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41586-023-05740-2} {\path{doi:10.1038/s41586-023-05740-2}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41586-023-05740-2}
+
+\bibitem{hogan2012driving}
+S.~D. Hogan, J.~A. Agner, F.~Merkt, T.~Thiele, S.~Filipp, A.~Wallraff, \href{https://link.aps.org/doi/10.1103/PhysRevLett.108.063004}{Driving {Rydberg}-{Rydberg} {Transitions} from a {Coplanar} {Microwave} {Waveguide}}, Physical Review Letters 108~(6) (2012) 063004, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevLett.108.063004} {\path{doi:10.1103/PhysRevLett.108.063004}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.108.063004}
+
+\bibitem{garcia2019single}
+S.~Garcia, M.~Stammeier, J.~Deiglmayr, F.~Merkt, A.~Wallraff, \href{https://link.aps.org/doi/10.1103/PhysRevLett.123.193201}{Single-{Shot} {Nondestructive} {Detection} of {Rydberg}-{Atom} {Ensembles} by {Transmission} {Measurement} of a {Microwave} {Cavity}}, Physical Review Letters 123~(19) (2019) 193201, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevLett.123.193201} {\path{doi:10.1103/PhysRevLett.123.193201}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.123.193201}
+
+\bibitem{bruzewicz2019trapped}
+C.~D. Bruzewicz, J.~Chiaverini, R.~McConnell, J.~M. Sage, \href{https://doi.org/10.1063/1.5088164}{Trapped-ion quantum computing: {Progress} and challenges}, Applied Physics Reviews 6~(2) (2019) 021314.
+\newblock \href {https://doi.org/10.1063/1.5088164} {\path{doi:10.1063/1.5088164}}.
+\newline\urlprefix\url{https://doi.org/10.1063/1.5088164}
+
+\bibitem{de2022error}
+B.~de~Neeve, T.-L. Nguyen, T.~Behrle, J.~P. Home, \href{https://www.nature.com/articles/s41567-021-01487-7}{Error correction of a logical grid state qubit by dissipative pumping}, Nature Physics 18~(3) (2022) 296--300, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41567-021-01487-7} {\path{doi:10.1038/s41567-021-01487-7}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41567-021-01487-7}
+
+\bibitem{fluhmann2019encoding}
+C.~Flühmann, T.~L. Nguyen, M.~Marinelli, V.~Negnevitsky, K.~Mehta, J.~P. Home, \href{https://www.nature.com/articles/s41586-019-0960-6}{Encoding a qubit in a trapped-ion mechanical oscillator}, Nature 566 (2019) 513--517, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41586-019-0960-6} {\path{doi:10.1038/s41586-019-0960-6}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41586-019-0960-6}
+
+\bibitem{brown2022}
+M.~O. Brown, S.~R. Muleady, W.~J. Dworschack, R.~J. Lewis-Swan, A.~M. Rey, O.~Romero-Isart, C.~A. Regal, \href{https://www.nature.com/articles/s41567-022-01890-8}{Time-of-flight quantum tomography of an atom in an optical tweezer}, Nature Physics 19~(4) (2023) 569--573, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41567-022-01890-8} {\path{doi:10.1038/s41567-022-01890-8}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41567-022-01890-8}
+
+\bibitem{scholl2023}
+A.~L. Shaw, P.~Scholl, R.~Finkelstein, R.~B.-S. Tsai, J.~Choi, M.~Endres, \href{http://arxiv.org/abs/2311.15580}{Erasure-cooling, control, and hyper-entanglement of motion in optical tweezers}, arXiv:2311.15580 [quant-ph] (Aug. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2311.15580} {\path{doi:10.48550/arXiv.2311.15580}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2311.15580}
+
+\bibitem{ofek2016extending}
+N.~Ofek, A.~Petrenko, R.~Heeres, P.~Reinhold, Z.~Leghtas, B.~Vlastakis, Y.~Liu, L.~Frunzio, S.~M. Girvin, L.~Jiang, M.~Mirrahimi, M.~H. Devoret, R.~J. Schoelkopf, \href{https://www.nature.com/articles/nature18949}{Extending the lifetime of a quantum bit with error correction in superconducting circuits}, Nature 536~(7617) (2016) 441--445, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/nature18949} {\path{doi:10.1038/nature18949}}.
+\newline\urlprefix\url{https://www.nature.com/articles/nature18949}
+
+\bibitem{ni2023beating}
+Z.~Ni, S.~Li, X.~Deng, Y.~Cai, L.~Zhang, W.~Wang, Z.-B. Yang, H.~Yu, F.~Yan, S.~Liu, C.-L. Zou, L.~Sun, S.-B. Zheng, Y.~Xu, D.~Yu, \href{https://www.nature.com/articles/s41586-023-05784-4}{Beating the break-even point with a discrete-variable-encoded logical qubit}, Nature 616~(7955) (2023) 56--60, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41586-023-05784-4} {\path{doi:10.1038/s41586-023-05784-4}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41586-023-05784-4}
+
+\bibitem{gertler2021protecting}
+J.~M. Gertler, B.~Baker, J.~Li, S.~Shirol, J.~Koch, C.~Wang, \href{https://www.nature.com/articles/s41586-021-03257-0}{Protecting a bosonic qubit with autonomous quantum error correction}, Nature 590~(7845) (2021) 243--248, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41586-021-03257-0} {\path{doi:10.1038/s41586-021-03257-0}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41586-021-03257-0}
+
+\bibitem{sivak2023real}
+V.~V. Sivak, A.~Eickbusch, B.~Royer, S.~Singh, I.~Tsioutsios, S.~Ganjam, A.~Miano, B.~L. Brock, A.~Z. Ding, L.~Frunzio, S.~M. Girvin, R.~J. Schoelkopf, M.~H. Devoret, \href{https://www.nature.com/articles/s41586-023-05782-6}{Real-time quantum error correction beyond break-even}, Nature 616~(7955) (2023) 50--55, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41586-023-05782-6} {\path{doi:10.1038/s41586-023-05782-6}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41586-023-05782-6}
+
+\bibitem{campagne2020quantum}
+P.~Campagne-Ibarcq, A.~Eickbusch, S.~Touzard, E.~Zalys-Geller, N.~E. Frattini, V.~V. Sivak, P.~Reinhold, S.~Puri, S.~Shankar, R.~J. Schoelkopf, L.~Frunzio, M.~Mirrahimi, M.~H. Devoret, \href{https://www.nature.com/articles/s41586-020-2603-3}{Quantum error correction of a qubit encoded in grid states of an oscillator}, Nature 584~(7821) (2020) 368--372, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41586-020-2603-3} {\path{doi:10.1038/s41586-020-2603-3}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41586-020-2603-3}
+
+\bibitem{crane2409hybrid}
+E.~Crane, K.~C. Smith, T.~Tomesh, A.~Eickbusch, J.~M. Martyn, S.~Kühn, L.~Funcke, M.~A. DeMarco, I.~L. Chuang, N.~Wiebe, A.~Schuckert, S.~M. Girvin, \href{http://arxiv.org/abs/2409.03747}{Hybrid {Oscillator}-{Qubit} {Quantum} {Processors}: {Simulating} {Fermions}, {Bosons}, and {Gauge} {Fields}}, arXiv:2409.03747 [quant-ph] (Sep. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2409.03747} {\path{doi:10.48550/arXiv.2409.03747}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2409.03747}
+
+\bibitem{quesada2019franck}
+N.~Quesada, \href{https://doi.org/10.1063/1.5086387}{Franck-{Condon} factors by counting perfect matchings of graphs with loops}, The Journal of Chemical Physics 150~(16) (2019) 164113.
+\newblock \href {https://doi.org/10.1063/1.5086387} {\path{doi:10.1063/1.5086387}}.
+\newline\urlprefix\url{https://doi.org/10.1063/1.5086387}
+
+\bibitem{hu2018simulation}
+L.~Hu, Y.-C. Ma, Y.~Xu, W.-T. Wang, Y.-W. Ma, K.~Liu, H.-Y. Wang, Y.-P. Song, M.-H. Yung, L.-Y. Sun, \href{https://www.sciencedirect.com/science/article/pii/S209592731830063X}{Simulation of molecular spectroscopy with circuit quantum electrodynamics}, Science Bulletin 63~(5) (2018) 293--299.
+\newblock \href {https://doi.org/10.1016/j.scib.2018.02.001} {\path{doi:10.1016/j.scib.2018.02.001}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S209592731830063X}
+
+\bibitem{wang2020efficient}
+C.~S. Wang, J.~C. Curtis, B.~J. Lester, Y.~Zhang, Y.~Y. Gao, J.~Freeze, V.~S. Batista, P.~H. Vaccaro, I.~L. Chuang, L.~Frunzio, L.~Jiang, S.~Girvin, R.~J. Schoelkopf, \href{https://link.aps.org/doi/10.1103/PhysRevX.10.021060}{Efficient {Multiphoton} {Sampling} of {Molecular} {Vibronic} {Spectra} on a {Superconducting} {Bosonic} {Processor}}, Physical Review X 10~(2) (2020) 021060, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevX.10.021060} {\path{doi:10.1103/PhysRevX.10.021060}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevX.10.021060}
+
+\bibitem{wang2023observation}
+C.~S. Wang, N.~E. Frattini, B.~J. Chapman, S.~Puri, S.~Girvin, M.~H. Devoret, R.~J. Schoelkopf, \href{https://link.aps.org/doi/10.1103/PhysRevX.13.011008}{Observation of {Wave}-{Packet} {Branching} through an {Engineered} {Conical} {Intersection}}, Physical Review X 13~(1) (2023) 011008, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevX.13.011008} {\path{doi:10.1103/PhysRevX.13.011008}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevX.13.011008}
+
+\bibitem{royer2022encoding}
+B.~Royer, S.~Singh, S.~Girvin, \href{https://link.aps.org/doi/10.1103/PRXQuantum.3.010335}{Encoding {Qubits} in {Multimode} {Grid} {States}}, PRX Quantum 3~(1) (2022) 010335, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PRXQuantum.3.010335} {\path{doi:10.1103/PRXQuantum.3.010335}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PRXQuantum.3.010335}
+
+\bibitem{rosenblum_fault-tolerant_2018}
+S.~Rosenblum, P.~Reinhold, M.~Mirrahimi, L.~Jiang, L.~Frunzio, R.~J. Schoelkopf, \href{https://www.science.org/doi/10.1126/science.aat3996}{Fault-tolerant detection of a quantum error}, Science 361~(6399) (2018) 266--270, publisher: American Association for the Advancement of Science.
+\newblock \href {https://doi.org/10.1126/science.aat3996} {\path{doi:10.1126/science.aat3996}}.
+\newline\urlprefix\url{https://www.science.org/doi/10.1126/science.aat3996}
+
+\bibitem{ReinholdErrorCorrectedGates}
+P.~Reinhold, S.~Rosenblum, W.-L. Ma, L.~Frunzio, L.~Jiang, R.~J. Schoelkopf, \href{https://www.nature.com/articles/s41567-020-0931-8}{Error-corrected gates on an encoded qubit}, Nature Physics 16~(8) (2020) 822--826, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41567-020-0931-8} {\path{doi:10.1038/s41567-020-0931-8}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41567-020-0931-8}
+
+\bibitem{tsunoda2023error}
+T.~Tsunoda, J.~D. Teoh, W.~D. Kalfus, S.~J. de~Graaf, B.~J. Chapman, J.~C. Curtis, N.~Thakur, S.~M. Girvin, R.~J. Schoelkopf, \href{https://link.aps.org/doi/10.1103/PRXQuantum.4.020354}{Error-{Detectable} {Bosonic} {Entangling} {Gates} with a {Noisy} {Ancilla}}, PRX Quantum 4~(2) (2023) 020354, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PRXQuantum.4.020354} {\path{doi:10.1103/PRXQuantum.4.020354}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PRXQuantum.4.020354}
+
+\bibitem{TeohPNAS_DualRail}
+J.~D. Teoh, P.~Winkel, H.~K. Babla, B.~J. Chapman, J.~Claes, S.~J. de~Graaf, J.~W.~O. Garmon, W.~D. Kalfus, Y.~Lu, A.~Maiti, K.~Sahay, N.~Thakur, T.~Tsunoda, S.~H. Xue, L.~Frunzio, S.~M. Girvin, S.~Puri, R.~J. Schoelkopf, \href{https://www.pnas.org/doi/10.1073/pnas.2221736120}{Dual-rail encoding with superconducting cavities}, Proceedings of the National Academy of Sciences 120~(41) (2023) e2221736120, publisher: Proceedings of the National Academy of Sciences.
+\newblock \href {https://doi.org/10.1073/pnas.2221736120} {\path{doi:10.1073/pnas.2221736120}}.
+\newline\urlprefix\url{https://www.pnas.org/doi/10.1073/pnas.2221736120}
+
+\bibitem{khaneja2005optimal}
+N.~Khaneja, T.~Reiss, C.~Kehlet, T.~Schulte-Herbrüggen, S.~J. Glaser, \href{https://www.sciencedirect.com/science/article/pii/S1090780704003696}{Optimal control of coupled spin dynamics: design of {NMR} pulse sequences by gradient ascent algorithms}, Journal of Magnetic Resonance 172~(2) (2005) 296--305.
+\newblock \href {https://doi.org/10.1016/j.jmr.2004.11.004} {\path{doi:10.1016/j.jmr.2004.11.004}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S1090780704003696}
+
+\bibitem{heeres2015cavity}
+R.~W. Heeres, B.~Vlastakis, E.~Holland, S.~Krastanov, V.~V. Albert, L.~Frunzio, L.~Jiang, R.~J. Schoelkopf, \href{https://link.aps.org/doi/10.1103/PhysRevLett.115.137002}{Cavity {State} {Manipulation} {Using} {Photon}-{Number} {Selective} {Phase} {Gates}}, Physical Review Letters 115~(13) (2015) 137002, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevLett.115.137002} {\path{doi:10.1103/PhysRevLett.115.137002}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.115.137002}
+
+\bibitem{sinanan2023single}
+J.~Sinanan-Singh, G.~L. Mintzer, I.~L. Chuang, Y.~Liu, \href{https://quantum-journal.org/papers/q-2024-07-30-1427/}{Single-shot {Quantum} {Signal} {Processing} {Interferometry}}, Quantum 8 (2024) 1427, publisher: Verein zur Förderung des Open Access Publizierens in den Quantenwissenschaften.
+\newblock \href {https://doi.org/10.22331/q-2024-07-30-1427} {\path{doi:10.22331/q-2024-07-30-1427}}.
+\newline\urlprefix\url{https://quantum-journal.org/papers/q-2024-07-30-1427/}
+
+\bibitem{google2023suppressing}
+R.~Acharya, I.~Aleiner, R.~Allen, T.~I. Andersen, M.~Ansmann, F.~Arute, K.~Arya, A.~Asfaw, J.~Atalaya, R.~Babbush, D.~Bacon, J.~C. Bardin, J.~Basso, A.~Bengtsson, S.~Boixo, G.~Bortoli, A.~Bourassa, J.~Bovaird, L.~Brill, M.~Broughton, B.~B. Buckley, D.~A. Buell, T.~Burger, B.~Burkett, N.~Bushnell, Y.~Chen, Z.~Chen, B.~Chiaro, J.~Cogan, R.~Collins, P.~Conner, W.~Courtney, A.~L. Crook, B.~Curtin, D.~M. Debroy, A.~Del Toro~Barba, S.~Demura, A.~Dunsworth, D.~Eppens, C.~Erickson, L.~Faoro, E.~Farhi, R.~Fatemi, L.~Flores~Burgos, E.~Forati, A.~G. Fowler, B.~Foxen, W.~Giang, C.~Gidney, D.~Gilboa, M.~Giustina, A.~Grajales~Dau, J.~A. Gross, S.~Habegger, M.~C. Hamilton, M.~P. Harrigan, S.~D. Harrington, O.~Higgott, J.~Hilton, M.~Hoffmann, S.~Hong, T.~Huang, A.~Huff, W.~J. Huggins, L.~B. Ioffe, S.~V. Isakov, J.~Iveland, E.~Jeffrey, Z.~Jiang, C.~Jones, P.~Juhas, D.~Kafri, K.~Kechedzhi, J.~Kelly, T.~Khattar, M.~Khezri, M.~Kieferová, S.~Kim, A.~Kitaev, P.~V. Klimov, A.~R. Klots, A.~N. Korotkov, F.~Kostritsa, J.~M. Kreikebaum, D.~Landhuis, P.~Laptev, K.-M. Lau, L.~Laws, J.~Lee, K.~Lee, B.~J. Lester, A.~Lill, W.~Liu, A.~Locharla, E.~Lucero, F.~D. Malone, J.~Marshall, O.~Martin, J.~R. McClean, T.~McCourt, M.~McEwen, A.~Megrant, B.~Meurer~Costa, X.~Mi, K.~C. Miao, M.~Mohseni, S.~Montazeri, A.~Morvan, E.~Mount, W.~Mruczkiewicz, O.~Naaman, M.~Neeley, C.~Neill, A.~Nersisyan, H.~Neven, M.~Newman, J.~H. Ng, A.~Nguyen, M.~Nguyen, M.~Y. Niu, T.~E. O’Brien, A.~Opremcak, J.~Platt, A.~Petukhov, R.~Potter, L.~P. Pryadko, C.~Quintana, P.~Roushan, N.~C. Rubin, N.~Saei, D.~Sank, K.~Sankaragomathi, K.~J. Satzinger, H.~F. Schurkus, C.~Schuster, M.~J. Shearn, A.~Shorter, V.~Shvarts, J.~Skruzny, V.~Smelyanskiy, W.~C. Smith, G.~Sterling, D.~Strain, M.~Szalay, A.~Torres, G.~Vidal, B.~Villalonga, C.~Vollgraff~Heidweiller, T.~White, C.~Xing, Z.~J. Yao, P.~Yeh, J.~Yoo, G.~Young, A.~Zalcman, Y.~Zhang, N.~Zhu, {Google Quantum AI}, \href{https://www.nature.com/articles/s41586-022-05434-1}{Suppressing quantum errors by scaling a surface code logical qubit}, Nature 614~(7949) (2023) 676--681, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41586-022-05434-1} {\path{doi:10.1038/s41586-022-05434-1}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41586-022-05434-1}
+
+\bibitem{acharya2024quantum}
+{Google Quantum AI and Collaborators}, \href{https://www.nature.com/articles/s41586-024-08449-y}{Quantum error correction below the surface code threshold}, Nature 638~(8052) (2025) 920--926, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41586-024-08449-y} {\path{doi:10.1038/s41586-024-08449-y}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41586-024-08449-y}
+
+\bibitem{brock2024quantum}
+B.~L. Brock, S.~Singh, A.~Eickbusch, V.~V. Sivak, A.~Z. Ding, L.~Frunzio, S.~M. Girvin, M.~H. Devoret, \href{http://arxiv.org/abs/2409.15065}{Quantum {Error} {Correction} of {Qudits} {Beyond} {Break}-even}, arXiv:2409.15065 [quant-ph] (Oct. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2409.15065} {\path{doi:10.48550/arXiv.2409.15065}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2409.15065}
+
+\bibitem{hastrup2021measurement}
+J.~Hastrup, K.~Park, J.~B. Brask, R.~Filip, U.~L. Andersen, \href{https://www.nature.com/articles/s41534-020-00353-3}{Measurement-free preparation of grid states}, npj Quantum Information 7~(1) (2021) 1--8, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41534-020-00353-3} {\path{doi:10.1038/s41534-020-00353-3}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41534-020-00353-3}
+
+\bibitem{hastrup2021unsuitability}
+J.~Hastrup, M.~V. Larsen, J.~S. Neergaard-Nielsen, N.~C. Menicucci, U.~L. Andersen, \href{https://link.aps.org/doi/10.1103/PhysRevA.103.032409}{Unsuitability of cubic phase gates for non-{Clifford} operations on {Gottesman}-{Kitaev}-{Preskill} states}, Physical Review A 103~(3) (2021) 032409, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevA.103.032409} {\path{doi:10.1103/PhysRevA.103.032409}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.103.032409}
+
+\bibitem{rojkov2023two}
+I.~Rojkov, P.~M. Röggla, M.~Wagener, M.~Fontboté-Schmidt, S.~Welte, J.~Home, F.~Reiter, \href{https://link.aps.org/doi/10.1103/PhysRevLett.133.100601}{Two-{Qubit} {Operations} for {Finite}-{Energy} {Gottesman}-{Kitaev}-{Preskill} {Encodings}}, Physical Review Letters 133~(10) (2024) 100601, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevLett.133.100601} {\path{doi:10.1103/PhysRevLett.133.100601}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.133.100601}
+
+\bibitem{hastrup2021unconditional}
+J.~Hastrup, K.~Park, R.~Filip, U.~L. Andersen, \href{https://link.aps.org/doi/10.1103/PhysRevLett.126.153602}{Unconditional {Preparation} of {Squeezed} {Vacuum} from {Rabi} {Interactions}}, Physical Review Letters 126~(15) (2021) 153602, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevLett.126.153602} {\path{doi:10.1103/PhysRevLett.126.153602}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.126.153602}
+
+\bibitem{hastrup2021improved}
+J.~Hastrup, U.~L. Andersen, \href{https://dx.doi.org/10.1088/2058-9565/ac070d}{Improved readout of qubit-coupled {Gottesman}–{Kitaev}–{Preskill} states}, Quantum Science and Technology 6~(3) (2021) 035016, publisher: IOP Publishing.
+\newblock \href {https://doi.org/10.1088/2058-9565/ac070d} {\path{doi:10.1088/2058-9565/ac070d}}.
+\newline\urlprefix\url{https://dx.doi.org/10.1088/2058-9565/ac070d}
+
+\bibitem{cummins2003tackling}
+H.~K. Cummins, G.~Llewellyn, J.~A. Jones, \href{https://link.aps.org/doi/10.1103/PhysRevA.67.042308}{Tackling systematic errors in quantum logic gates with composite rotations}, Physical Review A 67~(4) (2003) 042308, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevA.67.042308} {\path{doi:10.1103/PhysRevA.67.042308}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.67.042308}
+
+\bibitem{tycko1985composite}
+R.~Tycko, H.~M. Cho, E.~Schneider, A.~Pines, \href{https://www.sciencedirect.com/science/article/pii/0022236485902707}{Composite pulses without phase distortion}, Journal of Magnetic Resonance (1969) 61~(1) (1985) 90--101.
+\newblock \href {https://doi.org/10.1016/0022-2364(85)90270-7} {\path{doi:10.1016/0022-2364(85)90270-7}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/0022236485902707}
+
+\bibitem{low2016methodology}
+G.~H. Low, T.~J. Yoder, I.~L. Chuang, \href{http://arxiv.org/abs/1603.03996}{The methodology of resonant equiangular composite quantum gates}, Physical Review X 6~(4) (2016) 041067, arXiv:1603.03996 [quant-ph].
+\newblock \href {https://doi.org/10.1103/PhysRevX.6.041067} {\path{doi:10.1103/PhysRevX.6.041067}}.
+\newline\urlprefix\url{http://arxiv.org/abs/1603.03996}
+
+\bibitem{low2017quantum}
+G.~H. Low, \href{https://dspace.mit.edu/handle/1721.1/115025}{Quantum signal processing by single-qubit dynamics}, Thesis, Massachusetts Institute of Technology, accepted: 2018-04-27T18:10:33Z (2017).
+\newline\urlprefix\url{https://dspace.mit.edu/handle/1721.1/115025}
+
+\bibitem{nemeth2023variants}
+B.~Németh, B.~Kövér, B.~Kulcsár, R.~B. Miklósi, A.~Gilyén, \href{http://arxiv.org/abs/2312.09072}{On variants of multivariate quantum signal processing and their characterizations}, arXiv:2312.09072 [quant-ph] (Dec. 2023).
+\newblock \href {https://doi.org/10.48550/arXiv.2312.09072} {\path{doi:10.48550/arXiv.2312.09072}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2312.09072}
+
+\bibitem{ma2020path}
+W.-L. Ma, M.~Zhang, Y.~Wong, K.~Noh, S.~Rosenblum, P.~Reinhold, R.~J. Schoelkopf, L.~Jiang, \href{https://link.aps.org/doi/10.1103/PhysRevLett.125.110503}{Path-{Independent} {Quantum} {Gates} with {Noisy} {Ancilla}}, Physical Review Letters 125~(11) (2020) 110503, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevLett.125.110503} {\path{doi:10.1103/PhysRevLett.125.110503}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.125.110503}
+
+\bibitem{ma2022algebraic}
+W.-L. Ma, S.-S. Li, L.~Jiang, \href{https://link.aps.org/doi/10.1103/PhysRevResearch.4.023102}{Algebraic structure of path-independent quantum control}, Physical Review Research 4~(2) (2022) 023102, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevResearch.4.023102} {\path{doi:10.1103/PhysRevResearch.4.023102}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevResearch.4.023102}
+
+\bibitem{de2024modular}
+B.~d. Neeve, T.-L. Nguyen, A.~Ferk, T.~Behrle, F.~Lancellotti, M.~Simoni, S.~Welte, J.~Home, \href{http://arxiv.org/abs/2408.16128}{Modular variable laser cooling for efficient entropy extraction}, arXiv:2408.16128 [quant-ph] (Aug. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2408.16128} {\path{doi:10.48550/arXiv.2408.16128}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2408.16128}
+
+\bibitem{mirrahimi2014dynamically}
+M.~Mirrahimi, Z.~Leghtas, V.~V. Albert, S.~Touzard, R.~J. Schoelkopf, L.~Jiang, M.~H. Devoret, \href{https://dx.doi.org/10.1088/1367-2630/16/4/045014}{Dynamically protected cat-qubits: a new paradigm for universal quantum computation}, New Journal of Physics 16~(4) (2014) 045014, publisher: IOP Publishing.
+\newblock \href {https://doi.org/10.1088/1367-2630/16/4/045014} {\path{doi:10.1088/1367-2630/16/4/045014}}.
+\newline\urlprefix\url{https://dx.doi.org/10.1088/1367-2630/16/4/045014}
+
+\bibitem{gottesman2001encoding}
+D.~Gottesman, A.~Kitaev, J.~Preskill, \href{https://link.aps.org/doi/10.1103/PhysRevA.64.012310}{Encoding a qubit in an oscillator}, Physical Review A 64~(1) (2001) 012310, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevA.64.012310} {\path{doi:10.1103/PhysRevA.64.012310}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.64.012310}
+
+\bibitem{paris2004quantum}
+M.~Paris, J.~Řeháček (Eds.), \href{http://link.springer.com/10.1007/b98673}{Quantum {State} {Estimation}}, Vol. 649 of Lecture {Notes} in {Physics}, Springer, Berlin, Heidelberg, 2004.
+\newblock \href {https://doi.org/10.1007/b98673} {\path{doi:10.1007/b98673}}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/b98673}
+
+\bibitem{sun2014tracking}
+L.~Sun, A.~Petrenko, Z.~Leghtas, B.~Vlastakis, G.~Kirchmair, K.~M. Sliwa, A.~Narla, M.~Hatridge, S.~Shankar, J.~Blumoff, L.~Frunzio, M.~Mirrahimi, M.~H. Devoret, R.~J. Schoelkopf, \href{https://www.nature.com/articles/nature13436}{Tracking photon jumps with repeated quantum non-demolition parity measurements}, Nature 511~(7510) (2014) 444--448, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/nature13436} {\path{doi:10.1038/nature13436}}.
+\newline\urlprefix\url{https://www.nature.com/articles/nature13436}
+
+\bibitem{wineland2013nobel}
+D.~J. Wineland, \href{https://link.aps.org/doi/10.1103/RevModPhys.85.1103}{Nobel {Lecture}: {Superposition}, entanglement, and raising {Schr}{\textbackslash}"odinger's cat}, Reviews of Modern Physics 85~(3) (2013) 1103--1114, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/RevModPhys.85.1103} {\path{doi:10.1103/RevModPhys.85.1103}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/RevModPhys.85.1103}
+
+\bibitem{royer2020stabilization}
+B.~Royer, S.~Singh, S.~Girvin, \href{https://link.aps.org/doi/10.1103/PhysRevLett.125.260509}{Stabilization of {Finite}-{Energy} {Gottesman}-{Kitaev}-{Preskill} {States}}, Physical Review Letters 125~(26) (2020) 260509, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevLett.125.260509} {\path{doi:10.1103/PhysRevLett.125.260509}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.125.260509}
+
+\bibitem{brady2024advances}
+A.~J. Brady, A.~Eickbusch, S.~Singh, J.~Wu, Q.~Zhuang, \href{https://www.sciencedirect.com/science/article/pii/S0079672723000459}{Advances in bosonic quantum error correction with {Gottesman}–{Kitaev}–{Preskill} {Codes}: {Theory}, engineering and applications}, Progress in Quantum Electronics 93 (2024) 100496.
+\newblock \href {https://doi.org/10.1016/j.pquantelec.2023.100496} {\path{doi:10.1016/j.pquantelec.2023.100496}}.
+\newline\urlprefix\url{https://www.sciencedirect.com/science/article/pii/S0079672723000459}
+
+\bibitem{matsuura2020equivalence}
+T.~Matsuura, H.~Yamasaki, M.~Koashi, \href{https://link.aps.org/doi/10.1103/PhysRevA.102.032408}{Equivalence of approximate {Gottesman}-{Kitaev}-{Preskill} codes}, Physical Review A 102~(3) (2020) 032408, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevA.102.032408} {\path{doi:10.1103/PhysRevA.102.032408}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.102.032408}
+
+\bibitem{law1996arbitrary}
+C.~K. Law, J.~H. Eberly, \href{https://link.aps.org/doi/10.1103/PhysRevLett.76.1055}{Arbitrary {Control} of a {Quantum} {Electromagnetic} {Field}}, Physical Review Letters 76~(7) (1996) 1055--1058, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevLett.76.1055} {\path{doi:10.1103/PhysRevLett.76.1055}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.76.1055}
+
+\bibitem{hastrup2022universal}
+J.~Hastrup, K.~Park, J.~B. Brask, R.~Filip, U.~L. Andersen, \href{https://link.aps.org/doi/10.1103/PhysRevLett.128.110503}{Universal {Unitary} {Transfer} of {Continuous}-{Variable} {Quantum} {States} into a {Few} {Qubits}}, Physical Review Letters 128~(11) (2022) 110503, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevLett.128.110503} {\path{doi:10.1103/PhysRevLett.128.110503}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevLett.128.110503}
+
+\bibitem{puri2019stabilized}
+S.~Puri, A.~Grimm, P.~Campagne-Ibarcq, A.~Eickbusch, K.~Noh, G.~Roberts, L.~Jiang, M.~Mirrahimi, M.~H. Devoret, S.~Girvin, \href{https://link.aps.org/doi/10.1103/PhysRevX.9.041009}{Stabilized {Cat} in a {Driven} {Nonlinear} {Cavity}: {A} {Fault}-{Tolerant} {Error} {Syndrome} {Detector}}, Physical Review X 9~(4) (2019) 041009, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevX.9.041009} {\path{doi:10.1103/PhysRevX.9.041009}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevX.9.041009}
+
+\bibitem{grimm2020stabilization}
+A.~Grimm, N.~E. Frattini, S.~Puri, S.~O. Mundhada, S.~Touzard, M.~Mirrahimi, S.~M. Girvin, S.~Shankar, M.~H. Devoret, \href{https://www.nature.com/articles/s41586-020-2587-z}{Stabilization and operation of a {Kerr}-cat qubit}, Nature 584~(7820) (2020) 205--209, publisher: Nature Publishing Group.
+\newblock \href {https://doi.org/10.1038/s41586-020-2587-z} {\path{doi:10.1038/s41586-020-2587-z}}.
+\newline\urlprefix\url{https://www.nature.com/articles/s41586-020-2587-z}
+
+\bibitem{ding2024quantum}
+A.~Z. Ding, B.~L. Brock, A.~Eickbusch, A.~Koottandavida, N.~E. Frattini, R.~G. Cortinas, V.~R. Joshi, S.~J.~d. Graaf, B.~J. Chapman, S.~Ganjam, L.~Frunzio, R.~J. Schoelkopf, M.~H. Devoret, \href{http://arxiv.org/abs/2407.10940}{Quantum {Control} of an {Oscillator} with a {Kerr}-cat {Qubit}}, arXiv:2407.10940 [quant-ph] (Jul. 2024).
+\newblock \href {https://doi.org/10.48550/arXiv.2407.10940} {\path{doi:10.48550/arXiv.2407.10940}}.
+\newline\urlprefix\url{http://arxiv.org/abs/2407.10940}
+
+\bibitem{chapman2023high}
+B.~J. Chapman, S.~J. de~Graaf, S.~H. Xue, Y.~Zhang, J.~Teoh, J.~C. Curtis, T.~Tsunoda, A.~Eickbusch, A.~P. Read, A.~Koottandavida, S.~O. Mundhada, L.~Frunzio, M.~Devoret, S.~Girvin, R.~Schoelkopf, \href{https://link.aps.org/doi/10.1103/PRXQuantum.4.020355}{High-{On}-{Off}-{Ratio} {Beam}-{Splitter} {Interaction} for {Gates} on {Bosonically} {Encoded} {Qubits}}, PRX Quantum 4~(2) (2023) 020355, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PRXQuantum.4.020355} {\path{doi:10.1103/PRXQuantum.4.020355}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PRXQuantum.4.020355}
+
+\bibitem{xu2024fault}
+Q.~Xu, P.~Zeng, D.~Xu, L.~Jiang, \href{https://link.aps.org/doi/10.1103/PhysRevX.14.031016}{Fault-{Tolerant} {Operation} of {Bosonic} {Qubits} with {Discrete}-{Variable} {Ancillae}}, Physical Review X 14~(3) (2024) 031016, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevX.14.031016} {\path{doi:10.1103/PhysRevX.14.031016}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevX.14.031016}
+
+\bibitem{Liu2016e}
+N.~Liu, J.~Thompson, C.~Weedbrook, S.~Lloyd, V.~Vedral, M.~Gu, K.~Modi, \href{https://link.aps.org/doi/10.1103/PhysRevA.93.052304}{Power of one qumode for quantum computation}, Physical Review A 93~(5) (2016) 052304, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevA.93.052304} {\path{doi:10.1103/PhysRevA.93.052304}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.93.052304}
+
+\bibitem{baker2012pade}
+G.~A. Baker, P.~Graves-Morris, \href{https://www.cambridge.org/core/books/pade-approximants/A98B8DD2AFC0AF094EB6BF96C5C77A06}{Padé {Approximants}}, 2nd Edition, Encyclopedia of {Mathematics} and its {Applications}, Cambridge University Press, Cambridge, 1996.
+\newblock \href {https://doi.org/10.1017/CBO9780511530074} {\path{doi:10.1017/CBO9780511530074}}.
+\newline\urlprefix\url{https://www.cambridge.org/core/books/pade-approximants/A98B8DD2AFC0AF094EB6BF96C5C77A06}
+
+\bibitem{aharonov1993quantum}
+Y.~Aharonov, L.~Davidovich, N.~Zagury, \href{https://link.aps.org/doi/10.1103/PhysRevA.48.1687}{Quantum random walks}, Physical Review A 48~(2) (1993) 1687--1690, publisher: American Physical Society.
+\newblock \href {https://doi.org/10.1103/PhysRevA.48.1687} {\path{doi:10.1103/PhysRevA.48.1687}}.
+\newline\urlprefix\url{https://link.aps.org/doi/10.1103/PhysRevA.48.1687}
+
+\end{thebibliography}
