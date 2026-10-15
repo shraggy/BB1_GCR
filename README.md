@@ -1,7 +1,7 @@
 # BB1(GCR) Readout: A Real-Noise Analysis
 
 Companion repository to [`shraggy/NA-QSP_sims`](https://github.com/shraggy/NA-QSP_sims)
-(simulations for [arXiv:2504.19992](https://arxiv.org/abs/2504.19992), *Non-Abelian
+(simulations for [Phys. Rev. X 16, 041018](https://journals.aps.org/prx/abstract/10.1103/7jwl-k8xg), *Non-Abelian
 Quantum Signal Processing*).
 
 That paper introduces the Gaussian-Controlled-Rotation (GCR) and shows that composing
